@@ -9,7 +9,7 @@ I'm a passionate **Front-End Web Developer** with a focus on building clean, res
 - Advanced JavaScript and React
 - Backend basics (Node.js & Express)
 - Data structures and algorithms
-- 
+  
 ## 💞️ I’m looking to collaborate on
 - Open-source web projects
 - Beginner-friendly React projects
